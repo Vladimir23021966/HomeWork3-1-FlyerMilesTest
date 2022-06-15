@@ -9,7 +9,7 @@
 *.iws
 *.iml
 *.ipr
-out/
+*out/
 Thumbs.db*
 .DS_Store*
 HELP.md
